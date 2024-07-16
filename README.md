@@ -3,7 +3,5 @@
 
 
 
-
-https://amitgupta226571.github.io/E-commerce-site/
-
+http://127.0.0.1:5500/anon-ecommerce-website-master/index.html
 
